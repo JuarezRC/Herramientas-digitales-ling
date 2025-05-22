@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.22)  22 MAY 2025 11:39
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.22)  22 MAY 2025 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,14 +926,14 @@ Package hyperref Info: Link coloring ON on input line 62.
 \openout3 = `taller-herramientas-digitales.ist'.
 
 ]
-Overfull \hbox (55.86241pt too wide) in paragraph at lines 124--125
+Overfull \hbox (55.86241pt too wide) in paragraph at lines 127--128
 []\TU/LibertinusSerif(0)/m/n/12 sitio web: [][]$[][][][][] [] [] [] [][][][][] 
 [] [][][][][][] [] [][][] [] [][][][] [] [][][][][][][][][][][][][][][][][][][]
 [][][] [] [][][][] [] [][][][][][][][][][][][][]$[][] 
  []
 
 [2]
-Overfull \hbox (3.48648pt too wide) in paragraph at lines 154--155
+Overfull \hbox (3.48648pt too wide) in paragraph at lines 157--158
 []\TU/LibertinusSerif(0)/m/n/12 tutoriales: [][]$[][][][][] [] [] [] [][][][][]
 [][][] [] [][][] [] [][][] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][
 ][][][][][][][][][][][][][][]$[][] 
@@ -957,16 +957,16 @@ anged.
 
 Package rerunfilecheck Info: Checksums for `taller-herramientas-digitales.out':
 
-(rerunfilecheck)             Before: 525C9035AC2EAD2FDB99040703A3832C;1123
-(rerunfilecheck)             After:  648A66A6D2ADA406D0A2F4583AF7A295;1258.
+(rerunfilecheck)             Before: 648A66A6D2ADA406D0A2F4583AF7A295;1258
+(rerunfilecheck)             After:  132487AD771A7DE69DDBCC84D75D6527;1426.
  ) 
 Here is how much of TeX's memory you used:
  25993 strings out of 476683
  500944 string characters out of 5804047
- 1859018 words of memory out of 5000000
+ 1862018 words of memory out of 5000000
  45884 multiletter control sequences out of 15000+600000
  516265 words of font info for 71 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,5n,106p,2292b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,5n,106p,2292b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on taller-herramientas-digitales.pdf (3 pages).

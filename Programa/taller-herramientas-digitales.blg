@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: taller-herramientas-digitales.aux
+The style file: chicago.bst
+Database file #1: /Users/cristian/Documents/bibliotek/ZotMendlybrary.bib
+Warning--empty title in elan
+Warning--empty organization in elan
+You've used 2 entries,
+            2861 wiz_defined-function locations,
+            620 strings with 5197 characters,
+and the built_in function-call counts, 1219 in all, are:
+= -- 92
+> -- 104
+< -- 0
++ -- 30
+- -- 34
+* -- 107
+:= -- 241
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 14
+chr.to.int$ -- 2
+cite$ -- 4
+duplicate$ -- 30
+empty$ -- 63
+format.name$ -- 38
+if$ -- 213
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 11
+num.names$ -- 20
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 34
+stack$ -- 0
+substring$ -- 40
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 2
+while$ -- 16
+width$ -- 0
+write$ -- 24
+(There were 2 warnings)
